@@ -23,7 +23,7 @@ const dapp = () => {
       <div className='flex items-center justify-center gap-4'>
         <div>
           <h1 className='text-lg font-bold md:text-2xl text-center pt-2'>Dapp-Wallet</h1>
-          <p className='font-mono text-center pt-4'>your are wallet safe, secure, instant transaction
+          <p className='font-mono text-center pt-4'>your wallet are safe, secure, instant transaction
           </p>
         </div>
         <div className='justify-end'>
